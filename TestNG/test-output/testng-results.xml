@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-14T04:28:19Z" name="Suite" finished-at="2021-01-14T04:29:16Z" duration-ms="56643">
+    <groups>
+      <group name="Regression">
+        <method signature="TestActitimeCreateCustomer.customer()[pri:0, instance:test.TestActitimeCreateCustomer@3e2e18f2]" name="customer" class="test.TestActitimeCreateCustomer"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2021-01-14T04:28:19Z" name="Test" finished-at="2021-01-14T04:29:16Z" duration-ms="56643">
+      <class name="test.TestActitimeCreateCustomer">
+        <test-method signature="customer()[pri:0, instance:test.TestActitimeCreateCustomer@3e2e18f2]" started-at="2021-01-14T04:28:19Z" name="customer" finished-at="2021-01-14T04:29:16Z" duration-ms="56566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer -->
+      </class> <!-- test.TestActitimeCreateCustomer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
